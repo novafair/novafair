@@ -27,7 +27,11 @@ const messages = {
       fair_sektor: 'Sektor',
       fair_date:'Date',
       fair_location:'Country/City',
-      about_us_content: "will be updated"
+      about_us_content: "Inspired by the maxim “If you want to climb a tree, aim for the stars“, NOVA International Fairs Inc. was founded by experts who have served the fair industry for many years. " +
+                        "" +
+                        "Combining its experience in this sector with a young and dynamic team, NOVA has made it its mission to play an important role in Turkish exports and to be a reliable companion of Turkish companies that are marching towards their export targets. " +
+                        "" +
+                        "NOVA continues its fair activities in different sectors where exports and needs are especially important for Building -Construction, Energy, Agriculture and Textile."
 
     }
   },
@@ -49,9 +53,9 @@ const messages = {
       fair_sektor: 'Sektör',
       fair_date:'Tarih',
       fair_location:'Ülke/Şehir',
-      about_us_content:"İsminin ilhamını “ Ağaca çıkmak istiyorsan, yıldızları hedefle ” sözünden alan NOVA Uluslararası Fuarcılık A.Ş, fuarcılık sektörüne uzun yıllar hizmet etmiş uzmanlar tarafından kurulmuştur." +
+      about_us_content:"İsminin ilhamını “Ağaca çıkmak istiyorsan, yıldızları hedefle ” sözünden alan NOVA Uluslararası Fuarcılık A.Ş, fuarcılık sektörüne uzun yıllar hizmet etmiş uzmanlar tarafından kurulmuştur. " +
                 "" +
-                "Bu sektördeki tecrübesini genç ve dinamik bir ekiple birleştiren NOVA, Türk ihracatında önemli bir rol oynamayı ve İhracat hedeflerine yürüyen Türk Firmalarının güvenilir bir yol arkadaşı olmayı kendine misyon edinmiştir." +
+                "Bu sektördeki tecrübesini genç ve dinamik bir ekiple birleştiren NOVA, Türk ihracatında önemli bir rol oynamayı ve İhracat hedeflerine yürüyen Türk Firmalarının güvenilir bir yol arkadaşı olmayı kendine misyon edinmiştir. " +
                 "" +
                 "NOVA, Yapı-İnşaat, Enerji, Tarım ve Tekstil  başta olmak üzere ihracatın ve ihtiyacın olduğu farklı sektörlerde fuar çalışmalarını sürdürmektedir."
     }
