@@ -45,7 +45,7 @@
             </div>
                 <div class="footer">
                 <hr>
-               <p>{{ new Date().getFullYear() }} - Ogün&Gökberk </p>
+               <p>{{ new Date().getFullYear() }} - Supernova </p>
             </div>
         </div>
     </div>
