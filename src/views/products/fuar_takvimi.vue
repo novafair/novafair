@@ -17,114 +17,114 @@
           </thead>  
           <tbody>  
             <tr>  
-              <th scope="row"> Grains Africa </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_1_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/4.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Tahıl ve Tarım Teknolojileri Fuarı </td>  
-              <td> Tarım </td>  
-              <td> 9-11 Haziran 2023 </td>  
-              <td> Rwanda - Kigali </td>  
+              <td> {{ $t("message.fair_calendar_1_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_1_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_1_date") }} </td>
+              <td> {{ $t("message.fair_calendar_2_location") }} </td>
             </tr>  
             <tr>  
-              <th scope="row"> Grains Africa </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_2_fairname") }}</th>
               <td class="w-25">  
                   <img src="../../assets/partners/4.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Tahıl ve Tarım Teknolojileri Fuarı </td>  
-              <td> Tarım </td>  
-              <td> 15-17 Haziran 2023 </td>  
-              <td> Uganda - Kampala </td>  
+              <td> {{ $t("message.fair_calendar_2_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_2_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_2_date") }} </td>
+              <td> {{ $t("message.fair_calendar_2_location") }} </td>
             </tr>  
             <tr>  
-              <th scope="row"> Foodpack Africa  </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_3_fairname") }}</th>
               <td class="w-25">  
                   <img src="../../assets/partners/2.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Gıda ve Ambalaj Teknolojileri Fuarı  </td>  
-              <td> Gıda </td>  
-              <td> 9-11 Haziran 2023 </td>  
-              <td> Rwanda - Kigali </td>  
+              <td> {{ $t("message.fair_calendar_3_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_3_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_3_date") }} </td>
+              <td> {{ $t("message.fair_calendar_3_location") }} </td>
             </tr>  
             <tr>  
-              <th scope="row"> Foodpack Africa  </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_4_fairname") }}</th>
               <td class="w-25">  
                   <img src="../../assets/partners/2.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Gıda ve Ambalaj Teknolojileri Fuarı  </td>  
-              <td> Gıda </td>  
-              <td> 15-17 Haziran 2023 </td>  
-              <td> Uganda - Kampala </td>  
+              <td> {{ $t("message.fair_calendar_4_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_4_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_4_date") }} </td>
+              <td> {{ $t("message.fair_calendar_4_location") }} </td>
             </tr>  
             <tr>  
-              <th scope="row"> InterPlast-Pack  </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_5_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/6.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Plastik Fuarı	Plastik - Ambalaj  </td>  
-              <td> Plastik - Ambalaj </td>  
-              <td> 9-11 Haziran 2023 </td>  
-              <td> Rwanda - Kigali</td>  
+              <td> {{ $t("message.fair_calendar_5_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_5_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_5_date") }} </td>
+              <td> {{ $t("message.fair_calendar_5_location") }} </td>
             </tr> 
             <tr>  
-              <th scope="row"> InterPlast-Pack  </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_6_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/6.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Plastik Fuarı	Plastik - Ambalaj  </td>  
-              <td> Plastik - Ambalaj </td>  
-              <td> 15-17 Haziran 2023 </td>  
-              <td> Uganda - Kampala</td>  
+              <td> {{ $t("message.fair_calendar_6_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_6_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_6_date") }} </td>
+              <td> {{ $t("message.fair_calendar_6_location") }} </td>
             </tr> 
             <tr>  
-              <th scope="row"> Agro-Dairy & Poultry Africa   </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_7_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/1.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Tarım ve Hayvancılık Teknolojileri Fuarı   </td>  
-              <td> Tarım </td>  
-              <td> 9-11 Haziran 2023 </td>  
-              <td> Rwanda - Kigali</td>  
+              <td> {{ $t("message.fair_calendar_7_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_7_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_7_date") }} </td>
+              <td> {{ $t("message.fair_calendar_7_location") }} </td>
             </tr> 
             <tr>  
-              <th scope="row"> Agro-Dairy & Poultry Africa   </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_8_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/1.png" style="width: 10rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Tarım ve Hayvancılık Teknolojileri Fuarı   </td>  
-              <td> Tarım </td>  
-              <td> 15-17 Haziran 2023 </td>  
-              <td> Uganda - Kampala</td>  
+              <td> {{ $t("message.fair_calendar_8_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_8_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_8_date") }} </td>
+              <td> {{ $t("message.fair_calendar_8_location") }} </td>
             </tr> 
             <tr>  
-              <th scope="row">  MVC Cereals   </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_9_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/7.png" style="width: 7em;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Tahıl ve Yem Fuarı    </td>  
-              <td> Tarım </td>  
-              <td> 21-23 Haziran 2023 </td>  
-              <td> Rusya - Moscow </td>  
+              <td> {{ $t("message.fair_calendar_9_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_9_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_9_date") }} </td>
+              <td> {{ $t("message.fair_calendar_9_location") }} </td>
             </tr> 
             <tr>  
-              <th scope="row">  Thailand Lab International  </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_10_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/3.png" style="width: 8rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Uluslararası Labaratuar Ekipmanları Fuarı   </td>  
-              <td> Kimya </td>  
-              <td> 6-8 Eylül 2023 </td>  
-              <td> Tayland - Bangkok </td>  
+              <td> {{ $t("message.fair_calendar_10_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_10_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_10_date") }} </td>
+              <td> {{ $t("message.fair_calendar_10_location") }} </td>
             </tr> 
             <tr>  
-              <th scope="row">  ILDEX  </th>  
+              <th scope="row"> {{ $t("message.fair_calendar_11_fairname") }}</th>
               <td class="w-25">  
                 <img src="../../assets/partners/5.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">  
               </td>  
-              <td> Philippines	Uluslararası Tavukçuluk ve Yem Fuarı   </td>  
-              <td> Tarım </td>  
-              <td> 7-9 Haziran 2023 </td>  
-              <td> Filipinler - Manila  </td>  
+              <td> {{ $t("message.fair_calendar_11_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_11_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_11_date") }} </td>
+              <td> {{ $t("message.fair_calendar_11_location") }} </td>
             </tr> 
           </tbody>  
         </table>     
