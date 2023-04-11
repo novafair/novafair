@@ -98,6 +98,12 @@ const messages = {
       fair_calendar_11_date:"7-9 June 2023",
       fair_calendar_11_location:"Philippines - Manila",
 
+      fair_calendar_12_fairname: "GTEX GLOBAL ",
+      fair_calendar_12_subname: "International Trade Show on Textile Machinery and Chemicals",
+      fair_calendar_12_sektor:"Textile  ",
+      fair_calendar_12_date:"3-5 August 2023 ",
+      fair_calendar_12_location:"Pakistan - Karaçi",
+
     }
   },
   tr: {
@@ -189,6 +195,12 @@ const messages = {
       fair_calendar_11_sektor:"Tarım",
       fair_calendar_11_date:"7-9 Haziran 2023",
       fair_calendar_11_location:"Filipinler - Manila ",
+
+      fair_calendar_12_fairname: "GTEX GLOBAL ",
+      fair_calendar_12_subname: "Uluslararası Tekstil Makinaları ve Kimyasalları Fuarı",
+      fair_calendar_12_sektor:"Tekstil ",
+      fair_calendar_12_date:"3-5 Ağustos 2023",
+      fair_calendar_12_location:"Pakistan - Karaçi",
 
     }
   }

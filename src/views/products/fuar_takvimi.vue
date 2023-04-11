@@ -24,7 +24,7 @@
               <td> {{ $t("message.fair_calendar_1_subname") }}</td>
               <td> {{ $t("message.fair_calendar_1_sektor") }} </td>
               <td> {{ $t("message.fair_calendar_1_date") }} </td>
-              <td> {{ $t("message.fair_calendar_2_location") }} </td>
+              <td> {{ $t("message.fair_calendar_1_location") }} </td>
             </tr>  
             <tr>  
               <th scope="row"> {{ $t("message.fair_calendar_2_fairname") }}</th>
@@ -125,7 +125,17 @@
               <td> {{ $t("message.fair_calendar_11_sektor") }} </td>
               <td> {{ $t("message.fair_calendar_11_date") }} </td>
               <td> {{ $t("message.fair_calendar_11_location") }} </td>
-            </tr> 
+            </tr>
+            <tr>
+              <th scope="row"> {{ $t("message.fair_calendar_12_fairname") }}</th>
+              <td class="w-25">
+                <img src="../../assets/partners/8.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
+              </td>
+              <td> {{ $t("message.fair_calendar_12_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_12_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_12_date") }} </td>
+              <td> {{ $t("message.fair_calendar_12_location") }} </td>
+            </tr>
           </tbody>  
         </table>     
     </div>      
