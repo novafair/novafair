@@ -140,45 +140,111 @@
     <div class="mt-4">
       <div class="row">
         
-        <div class="col-12 col-md-6 col-lg-4 ass-tulip">
+        <div class="col-12 col-md-6 col-lg-2 ass-tulip">
             <div class="card text-center
             " style="width: 18rem;">
               <img class="card-img-top" src="../../assets/partners/1.png" alt="Card image cap">
             </div>
           </div>
           
-          <div class="col-12 col-md-6 col-lg-4 ass-tulip">
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
             <div class="card text-center
             " style="width: 18rem;">
               <img class="card-img-top" src="../../assets/partners/2.png" alt="Card image cap">
             </div>
           </div>
           
-          <div class="col-12 col-md-6 col-lg-4 ass-tulip">
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
             <div class="card text-center
             " style="width: 18rem;">
               <img class="card-img-top" src="../../assets/partners/3.png" alt="Card image cap">
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 ass-tulip">
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
             <div class="card text-center
             " style="width: 18rem;">
               <img class="card-img-top" src="../../assets/partners/4.png" alt="Card image cap">
             </div>
           </div>
           
-          <div class="col-12 col-md-6 col-lg-4 ass-tulip">
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
             <div class="card text-center
             " style="width: 18rem;">
               <img class="card-img-top" src="../../assets/partners/5.png" alt="Card image cap">
             </div>
           </div>
           
-          <div class="col-12 col-md-6 col-lg-4 ass-tulip">
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
             <div class="card text-center
             " style="width: 18rem;">
               <img class="card-img-top" src="../../assets/partners/6.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/7.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/8.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/9.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/10.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/11.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/12.png" alt="Card image cap">
+            </div>
+          </div>
+         <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/13.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/14.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/15.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/16.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/17.png" alt="Card image cap">
             </div>
           </div>
 

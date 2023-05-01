@@ -104,6 +104,60 @@ const messages = {
       fair_calendar_12_date:"3-5 August 2023 ",
       fair_calendar_12_location:"Pakistan - Karaçi",
 
+      fair_calendar_13_fairname: "CSS Uzbekistan ",
+      fair_calendar_13_subname: "International Trade Show on Ceramics, Stone & Sanitary Wares",
+      fair_calendar_13_sektor:"Build - Construction",
+      fair_calendar_13_date:"February 2024",
+      fair_calendar_13_location:"Uzbekistan - Tashkent",
+
+      fair_calendar_14_fairname: "CSS India",
+      fair_calendar_14_subname: "International Trade Show on Ceramics, Stone & Sanitary Wares",
+      fair_calendar_14_sektor:"Build - Construction",
+      fair_calendar_14_date:"1-3 December 2023",
+      fair_calendar_14_location:"India",
+
+      fair_calendar_15_fairname: "Agritech West Africa",
+      fair_calendar_15_subname: "International Trade Show on Agricultural Technologies",
+      fair_calendar_15_sektor:"Agriculture",
+      fair_calendar_15_date:"19-21 March 2024",
+      fair_calendar_15_location:"Ghana",
+
+      fair_calendar_16_fairname: "Agrofood East Africa",
+      fair_calendar_16_subname: "International Trade Show on Agriculture and Food Processing",
+      fair_calendar_16_sektor:"Agriculture",
+      fair_calendar_16_date:"23-25 November 2023",
+      fair_calendar_16_location:"Tanzania",
+
+      fair_calendar_17_fairname: "Aquaculture Taiwan",
+      fair_calendar_17_subname: "International Trade Show on Aquaculture and Fisheries",
+      fair_calendar_17_sektor:"Agriculture",
+      fair_calendar_17_date:"1-3 November 2023",
+      fair_calendar_17_location:"Taiwan",
+
+      fair_calendar_18_fairname: "Asia Agri Tech Taiwan",
+      fair_calendar_18_subname: "International Trade Show on Agricultural Technologies",
+      fair_calendar_18_sektor:"Agriculture",
+      fair_calendar_18_date:"1-3 November 2023",
+      fair_calendar_18_location:"Taiwan",
+
+      fair_calendar_19_fairname: "Cold chain Taiwan",
+      fair_calendar_19_subname: "International Trade Show on Cold Chain Technologies",
+      fair_calendar_19_sektor:"Machinery - Food",
+      fair_calendar_19_date:"1-3 November 2023",
+      fair_calendar_19_location:"Taiwan",
+
+      fair_calendar_20_fairname: "Livestock Taiwan",
+      fair_calendar_20_subname: "International Trade Show on Animal Husbandry",
+      fair_calendar_20_sektor:"Agriculture",
+      fair_calendar_20_date:"1-3 November 2023",
+      fair_calendar_20_location:"Taiwan",
+
+      fair_calendar_21_fairname: "Nonwowen Tech Asia",
+      fair_calendar_21_subname: "International Trade Show on Nonwowen Textiles & Technologies",
+      fair_calendar_21_sektor:"Textile  ",
+      fair_calendar_21_date:"28-30 September 2023",
+      fair_calendar_21_location:"India ",
+
     }
   },
   tr: {
@@ -201,6 +255,61 @@ const messages = {
       fair_calendar_12_sektor:"Tekstil ",
       fair_calendar_12_date:"3-5 Ağustos 2023",
       fair_calendar_12_location:"Pakistan - Karaçi",
+
+      fair_calendar_13_fairname: "CSS Uzbekistan ",
+      fair_calendar_13_subname: "Uluslararası Seramik, Mermer ve Banyo Ekipmanları Fuarı",
+      fair_calendar_13_sektor:"Yapı - İnşaat ",
+      fair_calendar_13_date:"Şubat 2024",
+      fair_calendar_13_location:"Özbekistan - Taşkent",
+
+      fair_calendar_14_fairname: "CSS India",
+      fair_calendar_14_subname: "Uluslararası Seramik, Mermer ve Banyo Ekipmanları Fuarı",
+      fair_calendar_14_sektor:"Yapı - İnşaat",
+      fair_calendar_14_date:"1-3 Aralık 2023",
+      fair_calendar_14_location:"Hindistan",
+
+      fair_calendar_15_fairname: "Agritech West Africa",
+      fair_calendar_15_subname: "Uluslararası Tarım Ürünleri ve Teknolojileri Fuarı",
+      fair_calendar_15_sektor:"Tarım",
+      fair_calendar_15_date:"19-21 Mart 2024",
+      fair_calendar_15_location:"Gana",
+
+      fair_calendar_16_fairname: "Agrofood East Africa",
+      fair_calendar_16_subname: "Uluslararası Tarım ve Gıda İşleme  Fuarı",
+      fair_calendar_16_sektor:"Tarım",
+      fair_calendar_16_date:"23-25 Kasım 2023",
+      fair_calendar_16_location:"Tanzanya",
+
+      fair_calendar_17_fairname: "Aquaculture Taiwan",
+      fair_calendar_17_subname: "Uluslararası Su Ürünleri ve Teknolojileri Fuarı",
+      fair_calendar_17_sektor:"Tarım",
+      fair_calendar_17_date:"1-3 Kasım 2023",
+      fair_calendar_17_location:"Tayvan",
+
+      fair_calendar_18_fairname: "Asia Agri Tech Taiwan",
+      fair_calendar_18_subname: "Uluslararası Tarım Ürünleri ve Teknolojileri Fuarı",
+      fair_calendar_18_sektor:"Tarım",
+      fair_calendar_18_date:"1-3 Kasım 2023",
+      fair_calendar_18_location:"Tayvan",
+
+      fair_calendar_19_fairname: "Cold chain Taiwan",
+      fair_calendar_19_subname: "Uluslararası Soğuk Zincir ve Tarım - Gıda Teknolojileri Fuarı",
+      fair_calendar_19_sektor:"Makine - Gıda ",
+      fair_calendar_19_date:"1-3 Kasım 2023",
+      fair_calendar_19_location:"Tayvan",
+
+      fair_calendar_20_fairname: "Livestock Taiwan",
+      fair_calendar_20_subname: "Uluslararası Tarım ve Hayvancılık Fuarı ",
+      fair_calendar_20_sektor:"Tarım",
+      fair_calendar_20_date:"1-3 Kasım 2023",
+      fair_calendar_20_location:"Tayvan",
+
+      fair_calendar_21_fairname: "Nonwowen Tech Asia",
+      fair_calendar_21_subname: "Uluslararası Dokumasız Kumaş ve Teknolojileri Fuarı ",
+      fair_calendar_21_sektor:"Tekstil   ",
+      fair_calendar_21_date:"28-30 Eylül 2023 ",
+      fair_calendar_21_location:"Hindistan",
+
 
     }
   }
