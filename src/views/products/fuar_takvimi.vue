@@ -146,6 +146,7 @@
               <td> {{ $t("message.fair_calendar_13_date") }} </td>
               <td> {{ $t("message.fair_calendar_13_location") }} </td>
             </tr>
+            <tr>
               <th scope="row"> {{ $t("message.fair_calendar_14_fairname") }}</th>
               <td class="w-25">
                 <img src="../../assets/partners/10.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
