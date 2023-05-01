@@ -147,16 +147,6 @@
               <td> {{ $t("message.fair_calendar_13_location") }} </td>
             </tr>
             <tr>
-              <th scope="row"> {{ $t("message.fair_calendar_13_fairname") }}</th>
-              <td class="w-25">
-                <img src="../../assets/partners/9.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
-              </td>
-              <td> {{ $t("message.fair_calendar_13_subname") }}</td>
-              <td> {{ $t("message.fair_calendar_13_sektor") }} </td>
-              <td> {{ $t("message.fair_calendar_13_date") }} </td>
-              <td> {{ $t("message.fair_calendar_13_location") }} </td>
-            </tr>
-            <tr>
               <th scope="row"> {{ $t("message.fair_calendar_14_fairname") }}</th>
               <td class="w-25">
                 <img src="../../assets/partners/10.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
