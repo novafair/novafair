@@ -247,6 +247,30 @@
               <img class="card-img-top" src="../../assets/partners/17.png" alt="Card image cap">
             </div>
           </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+          <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/18.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/23.jpg" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/24.png" alt="Card image cap">
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-2 ass-tulip">
+            <div class="card text-center
+            " style="width: 18rem;">
+              <img class="card-img-top" src="../../assets/partners/25.png" alt="Card image cap">
+            </div>
+          </div>
 
 
       </div>
