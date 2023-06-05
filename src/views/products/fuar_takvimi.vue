@@ -229,6 +229,49 @@
               <td> {{ $t("message.fair_calendar_21_date") }} </td>
               <td> {{ $t("message.fair_calendar_21_location") }} </td>
             </tr>
+            <tr>
+              <th scope="row"> {{ $t("message.fair_calendar_22_fairname") }}</th>
+              <td class="w-25">
+                <img src="../../assets/partners/18.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
+              </td>
+              <td> {{ $t("message.fair_calendar_22_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_22_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_22_date") }} </td>
+              <td> {{ $t("message.fair_calendar_22_location") }} </td>
+            </tr>
+
+            <tr>
+              <th scope="row"> {{ $t("message.fair_calendar_23_fairname") }}</th>
+              <td class="w-25">
+                <img src="../../assets/partners/23.jpg" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
+              </td>
+              <td> {{ $t("message.fair_calendar_23_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_23_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_23_date") }} </td>
+              <td> {{ $t("message.fair_calendar_23_location") }} </td>
+            </tr>
+
+            <tr>
+              <th scope="row"> {{ $t("message.fair_calendar_24_fairname") }}</th>
+              <td class="w-25">
+                <img src="../../assets/partners/24.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
+              </td>
+              <td> {{ $t("message.fair_calendar_24_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_24_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_24_date") }} </td>
+              <td> {{ $t("message.fair_calendar_24_location") }} </td>
+            </tr>
+
+            <tr>
+              <th scope="row"> {{ $t("message.fair_calendar_25_fairname") }}</th>
+              <td class="w-25">
+                <img src="../../assets/partners/25.png" style="width: 7rem;"  class="img-fluid img-thumbnail" alt="Card image cap">
+              </td>
+              <td> {{ $t("message.fair_calendar_25_subname") }}</td>
+              <td> {{ $t("message.fair_calendar_25_sektor") }} </td>
+              <td> {{ $t("message.fair_calendar_25_date") }} </td>
+              <td> {{ $t("message.fair_calendar_25_location") }} </td>
+            </tr>
           </tbody>  
         </table>     
     </div>      
