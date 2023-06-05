@@ -158,6 +158,29 @@ const messages = {
       fair_calendar_21_date:"28-30 September 2023",
       fair_calendar_21_location:"India ",
 
+      fair_calendar_22_fairname: "Carbon Capture Technology Expo Europe ",
+      fair_calendar_22_subname: "International Trade Show on Hydrogen Technologies",
+      fair_calendar_22_sektor:"Energy",
+      fair_calendar_22_date:"27-28 September 2023",
+      fair_calendar_22_location:"Germany/Bremen ",
+
+      fair_calendar_23_fairname: "Carbon Capture Technology Expo Europe ",
+      fair_calendar_23_subname: "International Trade Show on Carbon Technologies ",
+      fair_calendar_23_sektor:"Energy",
+      fair_calendar_23_date:"27-28 September 2023",
+      fair_calendar_23_location:"Germany/Bremen ",
+
+      fair_calendar_24_fairname: "GT Korea ",
+      fair_calendar_24_subname: "International Trade Show on Garment Machinery and Textile Industry",
+      fair_calendar_24_sektor:"Textile",
+      fair_calendar_24_date:"30 November - 02 December 2023 ",
+      fair_calendar_24_location:"Korea/Seoul ",
+
+      fair_calendar_25_fairname: "BIID Expo ",
+      fair_calendar_25_subname: "International Trade Show on Energy & Infrastructure",
+      fair_calendar_25_sektor:"Energy",
+      fair_calendar_25_date:"July 2024 ",
+      fair_calendar_25_location:"Bangladesh/Dhaka   ",
     }
   },
   tr: {
@@ -310,7 +333,29 @@ const messages = {
       fair_calendar_21_date:"28-30 Eylül 2023 ",
       fair_calendar_21_location:"Hindistan",
 
+      fair_calendar_22_fairname: "Carbon Capture Technology Expo Europe ",
+      fair_calendar_22_subname: "Uluslararası Hidrojen Teknolojileri Fuarı",
+      fair_calendar_22_sektor:"Enerji",
+      fair_calendar_22_date:"27-28 Eylül 2023",
+      fair_calendar_22_location:"Germany/Bremen ",
 
+      fair_calendar_23_fairname: "Carbon Capture Technology Expo Europe ",
+      fair_calendar_23_subname: "Uluslararası Karbon Teknolojileri Fuarı",
+      fair_calendar_23_sektor:"Enerji",
+      fair_calendar_23_date:"27-28 Eylül 2023",
+      fair_calendar_23_location:"Germany/Bremen ",
+
+      fair_calendar_24_fairname: "GT Korea ",
+      fair_calendar_24_subname: "Uluslararası Tekstil Makineleri Fuarı",
+      fair_calendar_24_sektor:"Tekstil",
+      fair_calendar_24_date:"30 Kasım - 02 Aralık 2023",
+      fair_calendar_24_location:"Kore/Seoul ",
+
+      fair_calendar_25_fairname: "BIID Expo ",
+      fair_calendar_25_subname: "Uluslararası Enerji ve Altyapı Fuarı ",
+      fair_calendar_25_sektor:"Enerji",
+      fair_calendar_25_date:"Temmuz 2024.",
+      fair_calendar_25_location:"Bangladeş/Dhaka  ",
     }
   }
 }
